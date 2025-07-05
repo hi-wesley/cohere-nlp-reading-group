@@ -1,6 +1,6 @@
-# cohere-nlp-reading-group
+# Cohere NLP reading group
 ## Overview
-This repository contains code from a code-along session hosted by **Vin Ahluwalia** as part of **Cohere Labs' NLP Reading Group**, where we work through Sebastian Raschka's [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch).
+This repository contains code from a code-along session hosted by Vin Ahluwalia as part of Cohere Labs' NLP Reading Group, where we work through Sebastian Raschka's [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch).
 ## Repository Contents
 
 ### Copy\_of\_ch04.ipynb
